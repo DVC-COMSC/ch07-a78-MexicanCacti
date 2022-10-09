@@ -18,7 +18,7 @@ for i in range(len(words)):
     if k == len(are):
         idxlst.append(words[i])
 
-print(words)
+print(idxlst)
 
 # print the words that has 'a', 'r', 'e' in sequence
 
